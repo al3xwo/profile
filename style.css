@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-  color: #404d67;
+  color: #000000;
 }
 a {
   text-decoration: none;
@@ -32,8 +32,8 @@ a {
 }
 
 .button {
-  background-color: #404d67;
-  border-radius: 5px;
+  background-color: #000000;
+  border-radius: 0px;
   color: rgb(255, 255, 255);
   padding: 15px 32px;
   text-align: center;
@@ -62,4 +62,3 @@ a {
     width: 300px;
   }
 }
-
